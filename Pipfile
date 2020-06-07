@@ -14,6 +14,8 @@ xlrd = "*"
 google-cloud-storage = "*"
 python-dotenv = "*"
 csvkit = "*"
+cookiecutter = "*"
+boto3 = "*"
 
 [requires]
 python_version = "3.7"
